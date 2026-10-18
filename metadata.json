@@ -1,0 +1,6 @@
+{
+  "name": "Industrial Breakdown Tracker",
+  "description": "Centralized Plant Maintenance & Breakdown Tracking System for shop floor mechanics, line leads, and plant managers with real-time downtime tracking, machine fleet diagnostics, and SLA management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
